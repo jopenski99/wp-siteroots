@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Schema Sitemap Generator
+ * Plugin Name: wp-siteroots - Schema Sitemap Generator
  * Plugin URI:  https://github.com/jopenski99/wp-siteroots
  * Description: Generates a JSON-LD sitemap of all WordPress posts, pages, and selected custom post types in Schema.org ItemList format.
  * Version:     1.2
